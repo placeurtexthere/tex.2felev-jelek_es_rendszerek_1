@@ -1,0 +1,7 @@
+\nobreakspace {}\hfill \textbf {Oldal}\par 
+\contentsline {section}{\numberline {1}1. előadás (2024.02.13.)}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Alapfogalmak}{2}{}%
+\contentsline {section}{\numberline {2}2. előadás (2024.02.15.)}{3}{}%
+\contentsline {subsection}{\numberline {2.1}speciális kétpólusok}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Kirchhoff törvények (1845)}{5}{}%
+\contentsline {subsection}{\numberline {2.3}A hálózat egyenletek teljes rendszere}{8}{}%
